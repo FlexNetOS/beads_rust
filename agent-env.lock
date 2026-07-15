@@ -1,0 +1,11 @@
+version: 2
+skills:
+  https://github.com/FlexNetOS/meta::meta-gitkb-review:
+    destination: .codex/skills/meta-gitkb-review
+    hash: e67143ffbf4144bd994ccfc8517e24b30b5e5501e060207909d237bf7342cac5
+    skill: meta-gitkb-review
+    description: Review a FlexNetOS Meta peer through the shared Meta/GitKB policy while preserving its independent repository and native assistant adapters.
+    source: https://github.com/FlexNetOS/meta
+    source_revision: ref:fb7273a7c8d05dce0bac649ded940a86ad41e107
+    scope: project
+assets: {}
